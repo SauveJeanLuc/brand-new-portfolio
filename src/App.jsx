@@ -80,7 +80,7 @@ function App() {
               <a href="https://mega.nz/file/56pVXQqA#reWvCJqhdl9Wa4JF135-J3erLQTgauSCltqMz323DnQ" class="btn padding" target="_blank">Resume</a>
               <a href="https://github.com/SauveJeanLuc" target="_blank" class="btn padding">GitHub</a>
               <a href="#" target="_blank" class="btn padding">Blog</a>
-              <a href="#" target="_blank" class="btn padding">Contact Me</a>
+              <a href="https://twitter.com/sauvejeanLuc" target="_blank" class="btn padding">Contact Me</a>
             </div>
           </div>
         </section>        
