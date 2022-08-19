@@ -36,7 +36,7 @@ gulp.task('html', () => {
             basepath: '@file'
         }))
         .pipe(gulp.dest('./build/')).on('end', () => {
-            browserSync.reload();
+            console.log('BUILD SUCCESSFULL')
         });
 });
 
