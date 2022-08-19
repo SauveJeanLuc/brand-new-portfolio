@@ -1,0 +1,28 @@
+.hero {
+  &__wrapper {
+    padding-top: 115px;
+    .title {
+      font-weight: 700;
+      font-size: 64px;
+      margin-bottom: 30px;
+      @include a {
+          font-size: 46px;
+      }
+      span {
+        background: linear-gradient(
+          90.2deg,
+          #3b82f6 63.77%,
+          #ec4899 83.43%,
+          #3b82f6 99.94%
+        );
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        text-fill-color: transparent;
+      }
+    }
+    .info {
+      margin-bottom: 100px;
+    }
+  }
+}
