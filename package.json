@@ -1,0 +1,35 @@
+{
+  "name": "testportfolio",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "smooth-scrollbar": "^8.7.0"
+  },
+  
+  "devDependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/plugin-transform-runtime": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "@babel/runtime": "^7.16.5",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@vitejs/plugin-react": "^1.3.0",
+    "babel-loader": "^8.2.3",
+    "browser-sync": "^2.27.7",
+    "core-js": "^3.20.0",
+    "del": "^6.0.0",
+    "fast-async": "^6.3.8",
+    "imports-loader": "^0.8.0",
+    "node-sass": "^7.0.1",
+    "sass": "^1.49.9",
+    "vite": "^2.9.15",
+    "webpack-stream": "^5.2.1"
+  }
+}
