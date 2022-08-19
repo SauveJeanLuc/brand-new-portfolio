@@ -31,10 +31,6 @@ function App() {
       localStorage.setItem('selected-icon', getCurrentIcon())
     })
   }
-  function ToggleDarkMode(){
-    DarkMode();
-    DarkMode();
-  }
 
   return (
     <>
